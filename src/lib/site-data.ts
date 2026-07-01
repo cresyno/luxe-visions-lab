@@ -9,15 +9,16 @@ import executiveMarbleOffice from "@/assets/projects/executive-marble-office.jpg
 import corporateBuilding from "@/assets/projects/corporate-building.jpg.asset.json";
 
 export const images = {
-  luxuryLivingOffice: luxuryLivingOffice.url,
-  modernLivingRoom: modernLivingRoom.url,
-  executiveOfficeLibrary: executiveOfficeLibrary.url,
-  minimalLivingRoom: minimalLivingRoom.url,
-  grandLivingRoom: grandLivingRoom.url,
-  officeMediaWall: officeMediaWall.url,
-  cozySittingRoom: cozySittingRoom.url,
-  executiveMarbleOffice: executiveMarbleOffice.url,
-  corporateBuilding: corporateBuilding.url,
+  luxuryLivingOffice: "/Screenshot_20260701-034432.jpg",
+  modernLivingRoom: "/Screenshot_20260701-034432.jpg",
+  executiveOfficeLibrary: "/Screenshot_20260701-034432.jpg",
+  minimalLivingRoom: "/Screenshot_20260701-034432.jpg",
+  grandLivingRoom: "/Screenshot_20260701-034432.jpg",
+  officeMediaWall: "/Screenshot_20260701-034432.jpg",
+  cozySittingRoom: "/Screenshot_20260701-034432.jpg",
+  executiveMarbleOffice: "/Screenshot_20260701-034432.jpg",
+  corporateBuilding: "/Screenshot_20260701-034432.jpg",
+  
 };
 
 export type ProjectCategory =
