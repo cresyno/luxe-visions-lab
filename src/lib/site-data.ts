@@ -16,7 +16,7 @@ export const images = {
   grandLivingRoom: "/Screenshot_20260701-034452.jpg",
   officeMediaWall: "/Screenshot_20260701-034459.jpg",
   cozySittingRoom: "/Screenshot_20260701-034437.jpg",
-  executiveMarbleOffice: "/Screenshot_20260701-034432.jpg",
+  executiveMarbleOffice: "/Screenshot_20260701-034518.jpg",
   corporateBuilding: "/Screenshot_20260701-034432.jpg",
   
 };
