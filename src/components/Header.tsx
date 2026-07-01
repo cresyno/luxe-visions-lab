@@ -68,7 +68,7 @@ export function Header() {
       </div>
 
       {open && (
-        <div className="fixed inset-0 z-50 bg-background md:hidden animate-fade-in">
+        <div className="fixed inset-0 z-50 bg-charcoal md:hidden animate-fade-in">
           <div className="flex items-center justify-between px-6 py-4">
             <span className="font-serif text-xl text-foreground">
               First Bholad<span className="text-gold">.</span>
