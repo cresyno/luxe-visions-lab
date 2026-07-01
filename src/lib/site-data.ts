@@ -11,7 +11,7 @@ import corporateBuilding from "@/assets/projects/corporate-building.jpg.asset.js
 export const images = {
   luxuryLivingOffice: "/Screenshot_20260701-034432.jpg",
   modernLivingRoom: "/Screenshot_20260701-034441.jpg",
-  executiveOfficeLibrary: "/Screenshot_20260701-034432.jpg",
+  executiveOfficeLibrary: "/Screenshot_20260701-034448.jpg",
   minimalLivingRoom: "/Screenshot_20260701-034432.jpg",
   grandLivingRoom: "/Screenshot_20260701-034432.jpg",
   officeMediaWall: "/Screenshot_20260701-034432.jpg",
