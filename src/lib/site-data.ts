@@ -58,7 +58,7 @@ export const CONTACT = {
   phone: "0705 294 0294",
   phoneRaw: "+2347052940294",
   whatsapp: "2347052940294",
-  instagram: "https://instagram.com",
-  facebook: "https://facebook.com",
-  tiktok: "https://tiktok.com",
+  instagram: "https://www.instagram.com/firstbholad",
+  facebook: "https://www.facebook.com/firstbholad",
+  tiktok: "https://www.tiktok.com/@firstbholad",
 };
