@@ -13,7 +13,7 @@ export const images = {
   modernLivingRoom: "/Screenshot_20260701-034441.jpg",
   executiveOfficeLibrary: "/Screenshot_20260701-034448.jpg",
   minimalLivingRoom: "/Screenshot_20260701-034454.jpg",
-  grandLivingRoom: "/Screenshot_20260701-034432.jpg",
+  grandLivingRoom: "/Screenshot_20260701-034452.jpg",
   officeMediaWall: "/Screenshot_20260701-034432.jpg",
   cozySittingRoom: "/Screenshot_20260701-034432.jpg",
   executiveMarbleOffice: "/Screenshot_20260701-034432.jpg",
