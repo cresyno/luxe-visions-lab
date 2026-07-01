@@ -84,7 +84,7 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
           "First Bholad Ltd delivers premium architecture, interior design, renovation, and construction for residential and commercial clients across Nigeria.",
       },
       { name: "author", content: "First Bholad Ltd" },
-      { property: "og:title", content: "First Bholad Ltd — Architecture & Interior Design" },
+      { property: "og:title", content: "First Bholad Ltd — Architecture & Interior Design in Abuja" },
       {
         property: "og:description",
         content:
@@ -92,6 +92,12 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
+      { name: "twitter:title", content: "First Bholad Ltd — Architecture & Interior Design in Abuja" },
+      { name: "description", content: "A luxury mobile-first website for a Nigerian architecture, interior design, renovation, and construction company." },
+      { property: "og:description", content: "A luxury mobile-first website for a Nigerian architecture, interior design, renovation, and construction company." },
+      { name: "twitter:description", content: "A luxury mobile-first website for a Nigerian architecture, interior design, renovation, and construction company." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/24a0ee4a-6ff4-46f7-b60c-b9bb3a2fdd14/id-preview-970e72a8--8eff38f0-1e3e-4500-ab51-99c381f08684.lovable.app-1782893309161.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/24a0ee4a-6ff4-46f7-b60c-b9bb3a2fdd14/id-preview-970e72a8--8eff38f0-1e3e-4500-ab51-99c381f08684.lovable.app-1782893309161.png" },
     ],
     links: [
       {
